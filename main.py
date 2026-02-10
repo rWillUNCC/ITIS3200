@@ -1,3 +1,4 @@
+#!Python 3.10
 #Robert Williams 2/9/26
 #ITIS 3200 Lab 2
 #Uses hashli to encrypt and verify files
